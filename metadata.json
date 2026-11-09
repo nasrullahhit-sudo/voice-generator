@@ -1,0 +1,6 @@
+{
+  "name": "কাসাসুল আম্বিয়া — Prophet Stories Script & Voice Studio",
+  "description": "নবী ও রাসূলগণের ধারাবাহিক সিনেম্যাটিক ভিডিও স্ক্রিপ্ট, সিন-বাই-সিন টাইমলাইন ও জেমিনাই TTS ভয়েসওভার স্টুডিও।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
